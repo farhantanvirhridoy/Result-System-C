@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Umme Habiba 
+   Roll: 12
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		91		3.50
+2. English		58		1.00
+3. Islam		60		3.50
+4. BGS			43		2.00
+5. General math		69		3.50
+6. Science		63		3.50
+7. Home economics	53		3.00
+8. ICT			13		3.00
+--------------------------------------------------
+		Total: 450		GPA: 2.88
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

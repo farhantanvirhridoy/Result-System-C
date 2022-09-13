@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Khotha Koli 
+   Roll: 52
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		65		2.00
+2. English		18		0.00
+3. Islam		26		0.00
+4. BGS			22		0.00
+5. General math		28		0.00
+6. Science		19		0.00
+7. Home economics	33		1.00
+8. ICT			10		2.00
+--------------------------------------------------
+		Total: 221		GPA: 0.00
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

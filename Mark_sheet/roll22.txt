@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Lema 
+   Roll: 22
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		81		3.00
+2. English		66		2.00
+3. Islam		58		3.00
+4. BGS			42		2.00
+5. General math		33		1.00
+6. Science		33		1.00
+7. Home economics	39		1.00
+8. ICT			15		3.50
+--------------------------------------------------
+		Total: 367		GPA: 2.06
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

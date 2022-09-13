@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Suborna 
+   Roll: 80
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		31		0.00
+2. English		8		0.00
+3. Islam		15		0.00
+4. BGS			10		0.00
+5. General math		24		0.00
+6. Science		9		0.00
+7. Home economics	9		0.00
+8. ICT			4		0.00
+--------------------------------------------------
+		Total: 110		GPA: 0.00
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Khadija 
+   Roll: 19
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		95		3.50
+2. English		74		2.00
+3. Islam		61		3.50
+4. BGS			59		3.00
+5. General math		67		3.50
+6. Science		69		3.50
+7. Home economics	65		3.50
+8. ICT			15		3.50
+--------------------------------------------------
+		Total: 505		GPA: 3.25
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

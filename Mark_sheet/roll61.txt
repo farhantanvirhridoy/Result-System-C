@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Habiba Akter Happy 
+   Roll: 61
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		94		3.50
+2. English		33		0.00
+3. Islam		54		3.00
+4. BGS			49		2.00
+5. General math		85		5.00
+6. Science		43		2.00
+7. Home economics	44		2.00
+8. ICT			10		2.00
+--------------------------------------------------
+		Total: 412		GPA: 0.00
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Ferdousi 
+   Roll: 33
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		81		3.00
+2. English		98		3.50
+3. Islam		69		3.50
+4. BGS			50		3.00
+5. General math		63		3.50
+6. Science		47		2.00
+7. Home economics	60		3.50
+8. ICT			14		3.00
+--------------------------------------------------
+		Total: 482		GPA: 3.13
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

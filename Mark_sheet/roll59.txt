@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Leva Moni 
+   Roll: 59
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		56		1.00
+2. English		30		0.00
+3. Islam		33		1.00
+4. BGS			25		0.00
+5. General math		28		0.00
+6. Science		21		0.00
+7. Home economics	29		0.00
+8. ICT			8		0.00
+--------------------------------------------------
+		Total: 230		GPA: 0.00
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

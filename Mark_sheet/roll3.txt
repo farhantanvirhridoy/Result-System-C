@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Chameli 
+   Roll: 3
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		126		5.00
+2. English		137		5.00
+3. Islam		77		4.00
+4. BGS			86		5.00
+5. General math		93		5.00
+6. Science		84		5.00
+7. Home economics	84		5.00
+8. ICT			23		5.00
+--------------------------------------------------
+		Total: 710		GPA: 4.88
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

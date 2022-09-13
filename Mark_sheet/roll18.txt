@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Mim 
+   Roll: 18
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		110		4.00
+2. English		110		4.00
+3. Islam		67		3.50
+4. BGS			36		1.00
+5. General math		84		5.00
+6. Science		59		3.00
+7. Home economics	69		3.50
+8. ICT			18		4.00
+--------------------------------------------------
+		Total: 553		GPA: 3.50
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

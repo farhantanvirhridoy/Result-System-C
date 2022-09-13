@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Rumana 
+   Roll: 98
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		73		2.00
+2. English		60		2.00
+3. Islam		38		1.00
+4. BGS			26		0.00
+5. General math		50		3.00
+6. Science		33		1.00
+7. Home economics	36		1.00
+8. ICT			8		0.00
+--------------------------------------------------
+		Total: 324		GPA: 0.00
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Methi 
+   Roll: 7
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		91		3.50
+2. English		90		3.50
+3. Islam		66		3.50
+4. BGS			47		2.00
+5. General math		79		4.00
+6. Science		63		3.50
+7. Home economics	59		3.00
+8. ICT			20		5.00
+--------------------------------------------------
+		Total: 515		GPA: 3.50
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

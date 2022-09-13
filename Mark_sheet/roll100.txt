@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Akidha 
+   Roll: 100
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		94		3.50
+2. English		104		3.50
+3. Islam		62		3.50
+4. BGS			53		3.00
+5. General math		71		4.00
+6. Science		65		3.50
+7. Home economics	81		5.00
+8. ICT			14		3.00
+--------------------------------------------------
+		Total: 544		GPA: 3.63
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

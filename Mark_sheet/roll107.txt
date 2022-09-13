@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Dulali 
+   Roll: 107
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		38		0.00
+2. English		38		0.00
+3. Islam		16		0.00
+4. BGS			16		0.00
+5. General math		34		1.00
+6. Science		11		0.00
+7. Home economics	18		0.00
+8. ICT			11		2.00
+--------------------------------------------------
+		Total: 182		GPA: 0.00
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

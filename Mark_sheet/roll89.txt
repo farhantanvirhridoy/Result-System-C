@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Tuli 
+   Roll: 89
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		110		4.00
+2. English		68		2.00
+3. Islam		64		3.50
+4. BGS			57		3.00
+5. General math		50		3.00
+6. Science		62		3.50
+7. Home economics	67		3.50
+8. ICT			15		3.50
+--------------------------------------------------
+		Total: 493		GPA: 3.25
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

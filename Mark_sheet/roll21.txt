@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Atika Jannat Juti 
+   Roll: 21
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		118		4.00
+2. English		124		5.00
+3. Islam		60		3.50
+4. BGS			67		3.50
+5. General math		85		5.00
+6. Science		72		4.00
+7. Home economics	71		4.00
+8. ICT			15		3.50
+--------------------------------------------------
+		Total: 612		GPA: 4.06
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

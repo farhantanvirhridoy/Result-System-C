@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Shazida 
+   Roll: 50
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		111		4.00
+2. English		117		4.00
+3. Islam		66		3.50
+4. BGS			55		3.00
+5. General math		88		5.00
+6. Science		66		3.50
+7. Home economics	80		5.00
+8. ICT			18		4.00
+--------------------------------------------------
+		Total: 601		GPA: 4.00
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

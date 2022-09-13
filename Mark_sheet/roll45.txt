@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Nela 
+   Roll: 45
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		66		2.00
+2. English		41		0.00
+3. Islam		36		1.00
+4. BGS			33		1.00
+5. General math		37		1.00
+6. Science		29		0.00
+7. Home economics	33		1.00
+8. ICT			5		0.00
+--------------------------------------------------
+		Total: 280		GPA: 0.00
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

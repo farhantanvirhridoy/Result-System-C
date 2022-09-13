@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Shorovi 
+   Roll: 31
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		82		3.00
+2. English		60		2.00
+3. Islam		60		3.50
+4. BGS			42		2.00
+5. General math		46		2.00
+6. Science		47		2.00
+7. Home economics	48		2.00
+8. ICT			10		2.00
+--------------------------------------------------
+		Total: 395		GPA: 2.31
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

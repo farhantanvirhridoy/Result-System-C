@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Mohasena 
+   Roll: 87
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		88		3.00
+2. English		77		3.00
+3. Islam		31		0.00
+4. BGS			35		1.00
+5. General math		66		3.50
+6. Science		36		1.00
+7. Home economics	41		2.00
+8. ICT			12		2.00
+--------------------------------------------------
+		Total: 386		GPA: 0.00
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

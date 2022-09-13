@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Rehana 
+   Roll: 123
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		85		3.00
+2. English		62		2.00
+3. Islam		60		3.50
+4. BGS			25		0.00
+5. General math		38		1.00
+6. Science		47		2.00
+7. Home economics	46		2.00
+8. ICT			15		3.50
+--------------------------------------------------
+		Total: 378		GPA: 0.00
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

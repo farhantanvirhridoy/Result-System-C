@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Abida 
+   Roll: 121
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		22		0.00
+2. English		5		0.00
+3. Islam		25		0.00
+4. BGS			10		0.00
+5. General math		33		1.00
+6. Science		10		0.00
+7. Home economics	12		0.00
+8. ICT			10		2.00
+--------------------------------------------------
+		Total: 127		GPA: 0.00
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

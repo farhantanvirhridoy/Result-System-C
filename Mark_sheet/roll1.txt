@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Nur A Jahan Nitu 
+   Roll: 1
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		104		3.50
+2. English		116		4.00
+3. Islam		63		3.50
+4. BGS			50		3.00
+5. General math		81		5.00
+6. Science		70		4.00
+7. Home economics	75		4.00
+8. ICT			18		4.00
+--------------------------------------------------
+		Total: 577		GPA: 3.88
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)

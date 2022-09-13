@@ -1,0 +1,25 @@
+   BGS
+   Class: 6	Section: A
+
+   Name: Era Moni 
+   Roll: 75
+
+Subjects		Mark		Grade point
+--------		------		--------------
+1. Bangla		0		0.00
+2. English		0		0.00
+3. Islam		0		0.00
+4. BGS			0		0.00
+5. General math		0		0.00
+6. Science		0		0.00
+7. Home economics	0		0.00
+8. ICT			0		0.00
+--------------------------------------------------
+		Total: 0		GPA: 0.00
+
+
+
+
+-----------------------------------------
+       Signature of Head Teacher
+(BGS)
